@@ -4,7 +4,7 @@ Node.js를 사용하여 구현한 세 가지 AI 모델(Gemini, Grok, OpenAI) 비
 
 ## 프로젝트 소개
 
-이 프로젝트는 주요 AI 모델들의 특징을 비교하고 실제 구현을 통해 각 API의 사용법을 학습하기 위해 만들어졌습니다.
+이 프로젝트는 주요 AI 모델들의 특징을 비교하고 실제 구현을 통해 각 API의 사용법을 학습하기 위해 만들어졌습니다. 자세한 구현 과정과 비교 분석은 [블로그 포스트](https://holy-s.tistory.com/entry/Nodejs%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-AI-%EC%B1%97%EB%B4%87-%EB%B9%84%EA%B5%90-%EB%B6%84%EC%84%9D-Gemini-vs-Grok-vs-OpenAI)를 참고해주세요.
 
 ## 기능
 
